@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.30c1b20a.chunk.css",
-    "main.js": "/static/js/main.51398095.chunk.js",
-    "main.js.map": "/static/js/main.51398095.chunk.js.map",
+    "main.js": "/static/js/main.b1cf9e36.chunk.js",
+    "main.js.map": "/static/js/main.b1cf9e36.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dd344ffc.js",
     "runtime-main.js.map": "/static/js/runtime-main.dd344ffc.js.map",
     "static/css/2.a35111de.chunk.css": "/static/css/2.a35111de.chunk.css",
@@ -13,13 +13,16 @@
     "index.html": "/index.html",
     "static/css/2.a35111de.chunk.css.map": "/static/css/2.a35111de.chunk.css.map",
     "static/css/main.30c1b20a.chunk.css.map": "/static/css/main.30c1b20a.chunk.css.map",
-    "static/js/2.d203b248.chunk.js.LICENSE.txt": "/static/js/2.d203b248.chunk.js.LICENSE.txt"
+    "static/js/2.d203b248.chunk.js.LICENSE.txt": "/static/js/2.d203b248.chunk.js.LICENSE.txt",
+    "static/media/carson-stack.ab40d993.png": "/static/media/carson-stack.ab40d993.png",
+    "static/media/mustafa-torun.41d00793.png": "/static/media/mustafa-torun.41d00793.png",
+    "static/media/qian-zhang.cf014b5c.png": "/static/media/qian-zhang.cf014b5c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.dd344ffc.js",
     "static/css/2.a35111de.chunk.css",
     "static/js/2.d203b248.chunk.js",
     "static/css/main.30c1b20a.chunk.css",
-    "static/js/main.51398095.chunk.js"
+    "static/js/main.b1cf9e36.chunk.js"
   ]
 }
