@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.30c1b20a.chunk.css",
-    "main.js": "/static/js/main.97d3954a.chunk.js",
-    "main.js.map": "/static/js/main.97d3954a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b7e8da36.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b7e8da36.js.map",
+    "main.css": "/static/css/main.6d7db937.chunk.css",
+    "main.js": "/static/js/main.583d8339.chunk.js",
+    "main.js.map": "/static/js/main.583d8339.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0b2b6fd9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0b2b6fd9.js.map",
     "static/css/2.5aa910c5.chunk.css": "/static/css/2.5aa910c5.chunk.css",
-    "static/js/2.a0c0d656.chunk.js": "/static/js/2.a0c0d656.chunk.js",
-    "static/js/2.a0c0d656.chunk.js.map": "/static/js/2.a0c0d656.chunk.js.map",
-    "static/js/3.69c9dbed.chunk.js": "/static/js/3.69c9dbed.chunk.js",
-    "static/js/3.69c9dbed.chunk.js.map": "/static/js/3.69c9dbed.chunk.js.map",
+    "static/js/2.176b1236.chunk.js": "/static/js/2.176b1236.chunk.js",
+    "static/js/2.176b1236.chunk.js.map": "/static/js/2.176b1236.chunk.js.map",
+    "static/js/3.935a5114.chunk.js": "/static/js/3.935a5114.chunk.js",
+    "static/js/3.935a5114.chunk.js.map": "/static/js/3.935a5114.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.5aa910c5.chunk.css.map": "/static/css/2.5aa910c5.chunk.css.map",
-    "static/css/main.30c1b20a.chunk.css.map": "/static/css/main.30c1b20a.chunk.css.map",
-    "static/js/2.a0c0d656.chunk.js.LICENSE.txt": "/static/js/2.a0c0d656.chunk.js.LICENSE.txt",
+    "static/css/main.6d7db937.chunk.css.map": "/static/css/main.6d7db937.chunk.css.map",
+    "static/js/2.176b1236.chunk.js.LICENSE.txt": "/static/js/2.176b1236.chunk.js.LICENSE.txt",
     "static/media/carson-stack.ab40d993.png": "/static/media/carson-stack.ab40d993.png",
     "static/media/mustafa-torun.41d00793.png": "/static/media/mustafa-torun.41d00793.png",
     "static/media/qian-zhang.cf014b5c.png": "/static/media/qian-zhang.cf014b5c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b7e8da36.js",
+    "static/js/runtime-main.0b2b6fd9.js",
     "static/css/2.5aa910c5.chunk.css",
-    "static/js/2.a0c0d656.chunk.js",
-    "static/css/main.30c1b20a.chunk.css",
-    "static/js/main.97d3954a.chunk.js"
+    "static/js/2.176b1236.chunk.js",
+    "static/css/main.6d7db937.chunk.css",
+    "static/js/main.583d8339.chunk.js"
   ]
 }
