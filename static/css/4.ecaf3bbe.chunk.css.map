@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/package-description-paragraph/package-description-paragraph.module.scss"],"names":[],"mappings":"AAAA,2CACE,eAAgB,CAChB,sBAAuB","file":"4.ecaf3bbe.chunk.css","sourcesContent":[".root {\n  overflow: hidden;\n  text-overflow: ellipsis;\n}\n"]}
